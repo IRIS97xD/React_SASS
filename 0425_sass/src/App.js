@@ -1,4 +1,4 @@
-import Prob2 from './Prob2';
+import Prob2 from '..src/Prob2';
 
 function App() {
   return (

@@ -75,3 +75,10 @@
     }
   }
 }
+
+@include media('<758px') {
+    .SassComponent {
+        flex-direction: column;
+    }
+
+}
